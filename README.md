@@ -65,6 +65,7 @@ Developed by: KIRANBALAJI H
 RegisterNumber:  23002730
 
 Code:
+
 ![Exp1 code](https://github.com/KiranbalajiH/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/149135475/0f3533a6-96d3-4278-a2b0-9ecf7d2c6656)
 
 Truth table:
